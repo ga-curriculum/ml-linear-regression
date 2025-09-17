@@ -10,6 +10,7 @@ An introduction to Linear Regression: what it is, how it works, and how to run a
 
 *You will be able to:*
 
+- Describe statistical modeling and machine learning.
 - Describe the principles of linear regression.
 - Interpret the coefficients of a linear regression model.
 - State the assumptions of a linear regression model.
@@ -22,10 +23,10 @@ An introduction to Linear Regression: what it is, how it works, and how to run a
 
 | Topic | About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides/)| A walkthrough of what APIs are and how to use them |
-| [02 APIs marketing strategy notebook](./02-APIs-marketing-strategy/) | A demonstration of how to get data from APIs, and some practice too |
-| [03 APIs financial markets notebook](./03-APIs-financial-markets/) | An exercuse to practice gathering data from APIs and saving them to `pandas` `DataFrames` |
-| [04 Crimes Minilab notebook](./04-mini-lab-crimes/) | An optional additional exercise to help practice analytical skillls using APIs and `pandas`|
+| [Full Lesson Deck](./01-slides/)| An introduction to Linear Regression |
+| [02 Simple Linear Regression](./02-simple-linear-regression) | A guided walk through of how to build a simple linear regression model |
+| [03 Multiple Linear Regression](./03-multiple-linear-regression) | A guided walk through of how to build a multiple linear regression model  |
+| [Practice](./practice/) | An optional additional exercise to help practice building linear regression models|
 
 
 ## Prerequisites
